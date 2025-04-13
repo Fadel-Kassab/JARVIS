@@ -1,0 +1,4 @@
+pip install opencv-python opencv-contrib-python pyautogui numpy mediapipe
+opencv-python~=4.11.0.86
+numpy~=2.2.4
+PyAutoGUI~=0.9.54
